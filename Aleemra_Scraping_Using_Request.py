@@ -286,3 +286,4 @@ with open('output.json', 'w') as json_file:
     json.dump(output_data, json_file, indent=4)
 
 print("Done with scraping Aleemra ...")
+
